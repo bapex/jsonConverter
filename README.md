@@ -1,8 +1,8 @@
 ## CSV => JSON変換ツール
 
-### 使い方
+## 使い方
 
-```
-npm i
-node main.js
-```
+### `git clone https://github.com/bapex/jsonConverter.git`
+### `cd jsonConverter`
+### `npm i`
+### `npm run start`
