@@ -1,0 +1,5 @@
+id,name,email,phone,picture01,picture02,picture03,status
+1,Alice,alice@gmail.com,2131232,"image01_01",image01_02,image01_03,single
+2,Bob,bob@gmail.com,2854839,image02_01,"image02_02",,married
+3,Frank,frank@gmail.com,987987,image03_01,image03_02,,single
+4,Shawn,shawn@gmail.com,,image04_01,,,single
